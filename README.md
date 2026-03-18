@@ -6,7 +6,7 @@ Open research data from [Casomo](https://casomo.co.uk). Reference values, featur
 
 | Directory | Description |
 |---|---|
-| [nhs-calculator-comparison](nhs-calculator-comparison/) | Seven NHS take-home pay calculators tested against five real scenarios |
+| [nhs-calculator-comparison](nhs-calculator-comparison/README.md) | Seven NHS take-home pay calculators tested against five real scenarios |
 
 ## Licence
 
