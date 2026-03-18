@@ -1,0 +1,10 @@
+| Calculator | Take-home | Tax | NI | Pension | Match |
+|---|---|---|---|---|---|
+| Reference | £23,814 | £3,180 | £1,478 | £2,577 | — |
+| NHS THP | TBD | TBD | TBD | TBD | TBD |
+| Nursing Notes | TBD | TBD | TBD | TBD | TBD |
+| NHS Salary | TBD | TBD | TBD | TBD | TBD |
+| NHS Pay Band | TBD | TBD | TBD | TBD | TBD |
+| My Pay Calc | TBD | TBD | TBD | TBD | TBD |
+| Nurses.co.uk | TBD | TBD | TBD | TBD | TBD |
+| Take Home | TBD | TBD | TBD | TBD | TBD |
