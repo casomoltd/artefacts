@@ -1,7 +1,10 @@
 | | NHS THP | Nursing Notes | NHS Salary | NHS Pay Band | My Pay Calc | Nurses.co.uk | Take Home |
 |---|---|---|---|---|---|---|---|
-| UK tax bands | Y | Y | Y | Y | Y | Y | Y |
-| Scottish tax bands | Y | ? | ? | Y | Y | ? | Y |
-| NI included | Y | Y | Y | Y | Y | Y | Y |
-| Monthly vs annual | Y | Y | Y | Y | Y | Y | Y |
-| Tax year selection | Y | N | ? | Y | Y | N | Y |
+| England tax bands | ✓ | ✓ | ? | ✓ | ✓ | ✓ | ✓ |
+| Scottish tax bands | ✓ | ✓ | ✗ | ✗ | ✓ | ✗ | ✗ |
+| NI included | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Monthly vs annual | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
+| 2025/26 | ✗ | ✓ | ✓ | ✓ | ✗ | ✗ | ✓ |
+| 2026/27 | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ |
+
+✓ Supported · ✗ Not available · ⚠ Bugged · 🏷 Mislabelled · ? Unknown
