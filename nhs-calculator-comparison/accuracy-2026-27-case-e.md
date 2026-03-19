@@ -1,6 +1,23 @@
+# 2026/27 Case E — Band 7, FT, Plan 2
+
+See [test-cases.md](test-cases.md) for all five scenarios.
+
+| | |
+|---|---|
+| Band | 7 entry |
+| Hours | 1.0 FTE |
+| Student loan | Plan 2 |
+| Pension method | NET pay |
+| Gross | £49,387 |
+| Pension tier | 9.8% (£4,840) |
+| Tax | £6,395 |
+| NI | £2,945 |
+| Student loan | £1,988 |
+| Reference take-home | £33,219 |
+
 | Calculator | Salary | Take-home | Tax | NI | Student loan | Pension | Rate | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Reference | £49,387 | £33,219 | £6,395 | £2,945 | £1,988 | £4,840 | 9.8% | — |
+| Reference | £49,387 | £33,219 | £6,395 | £2,945 | £1,988 | £4,840 | 9.8% | [reference-values-2026-27.md](reference-values-2026-27.md) |
 | [NHS THP](https://nhstakehomepaycalculator.co.uk) | £49,387 | £33,407 | £6,395 | £2,945 | £1,800 | £4,840 | 9.8% | |
 | [Nursing Notes](https://nursingnotes.co.uk/nhs-pay-calculator/) | — | — | — | — | — | — | — | Year unsupported |
 | [NHS Salary](https://nhssalarycalculator.com) | — | — | — | — | — | — | — | Year unsupported |

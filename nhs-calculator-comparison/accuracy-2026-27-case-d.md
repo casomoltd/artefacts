@@ -1,6 +1,22 @@
+# 2026/27 Case D — Band 5, 0.6 FTE
+
+See [test-cases.md](test-cases.md) for all five scenarios.
+
+| | |
+|---|---|
+| Band | 5 entry |
+| Hours | 0.6 FTE |
+| Student loan | — |
+| Pension method | NET pay |
+| Gross | £19,244 |
+| Pension tier | 6.5% (£1,251) |
+| Tax | £1,085 |
+| NI | £534 |
+| Reference take-home | £16,374 |
+
 | Calculator | Salary | Take-home | Tax | NI | Pension | Rate | Notes |
 |---|---|---|---|---|---|---|---|
-| Reference | £19,244 | £16,374 | £1,085 | £534 | £1,251 | 6.5% | — |
+| Reference | £19,244 | £16,374 | £1,085 | £534 | £1,251 | 6.5% | [reference-values-2026-27.md](reference-values-2026-27.md) |
 | [NHS THP](https://nhstakehomepaycalculator.co.uk) | £19,244 | £16,375 | £1,085 | £533 | £1,251 | 6.5% | |
 | [Nursing Notes](https://nursingnotes.co.uk/nhs-pay-calculator/) | — | — | — | — | — | — | Year unsupported |
 | [NHS Salary](https://nhssalarycalculator.com) | — | — | — | — | — | — | Year unsupported |

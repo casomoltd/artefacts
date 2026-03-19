@@ -1,3 +1,7 @@
+# Reference Values — 2025/26
+
+See [test-cases.md](test-cases.md) for scenario definitions.
+
 | | A | B | C | D | E |
 |---|---|---|---|---|---|
 | Gross | £31,049 | £47,810 | £55,690 | £18,629 | £47,810 |
@@ -8,3 +12,9 @@
 | NI | £1,478 | £2,819 | £3,124 | £485 | £2,819 |
 | Student loan | — | — | — | — | £1,846 |
 | Take-home | £23,814 | £34,195 | £39,175 | £15,963 | £32,349 |
+
+## Sources
+
+- AfC pay rates: [NHSBSA KA-23570](https://faq-hrss.nhsbsa.nhs.uk/knowledgebase/article/KA-23570)
+- NHS pension tiers: [NHSBSA](https://www.nhsbsa.nhs.uk/member-hub/contribution-rates)
+- Tax and NI rates: [GOV.UK](https://www.gov.uk/income-tax-rates)

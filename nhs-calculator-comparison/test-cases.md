@@ -1,7 +1,7 @@
 | Case | Band | Hours | Student Loan | Pension Method | Purpose |
 |------|------|-------|-------------|----------------|---------|
-| A | 5 entry | 1.0 | — | NET pay | Baseline |
-| B | 7 entry | 1.0 | — | NET pay | Higher tier |
-| C | 8a entry | 1.0 | — | NET pay | Crosses UEL |
-| D | 5 entry | 0.6 | — | NET pay | Part-time |
-| E | 7 entry | 1.0 | Plan 2 | NET pay | Student loan |
+| A ([25/26](accuracy-2025-26-case-a.md)) ([26/27](accuracy-2026-27-case-a.md)) | 5 entry | 1.0 | — | NET pay | Baseline |
+| B ([25/26](accuracy-2025-26-case-b.md)) ([26/27](accuracy-2026-27-case-b.md)) | 7 entry | 1.0 | — | NET pay | Higher tier |
+| C ([25/26](accuracy-2025-26-case-c.md)) ([26/27](accuracy-2026-27-case-c.md)) | 8a entry | 1.0 | — | NET pay | Crosses UEL |
+| D ([25/26](accuracy-2025-26-case-d.md)) ([26/27](accuracy-2026-27-case-d.md)) | 5 entry | 0.6 | — | NET pay | Part-time |
+| E ([25/26](accuracy-2025-26-case-e.md)) ([26/27](accuracy-2026-27-case-e.md)) | 7 entry | 1.0 | Plan 2 | NET pay | Student loan |

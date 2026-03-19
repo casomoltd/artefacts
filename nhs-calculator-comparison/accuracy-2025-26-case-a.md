@@ -1,6 +1,22 @@
+# 2025/26 Case A — Band 5, FT, Baseline
+
+See [test-cases.md](test-cases.md) for all five scenarios.
+
+| | |
+|---|---|
+| Band | 5 entry |
+| Hours | 1.0 FTE |
+| Student loan | — |
+| Pension method | NET pay |
+| Gross | £31,049 |
+| Pension tier | 8.3% (£2,577) |
+| Tax | £3,180 |
+| NI | £1,478 |
+| Reference take-home | £23,814 |
+
 | Calculator | Salary | Take-home | Tax | NI | Pension | Rate | Notes |
 |---|---|---|---|---|---|---|---|
-| Reference | £31,049 | £23,814 | £3,180 | £1,478 | £2,577 | 8.3% | — |
+| Reference | £31,049 | £23,814 | £3,180 | £1,478 | £2,577 | 8.3% | [reference-values-2025-26.md](reference-values-2025-26.md) |
 | [NHS THP](https://nhstakehomepaycalculator.co.uk) | — | — | — | — | — | — | Year unsupported |
 | [Nursing Notes](https://nursingnotes.co.uk/nhs-pay-calculator/) | £31,048 | £23,808 | £3,180 | £1,476 | £2,580 | 8.3% | |
 | [NHS Salary](https://nhssalarycalculator.com) | £31,049 | £23,814 | £3,180 | £1,478 | £2,577 | 8.3% | |
