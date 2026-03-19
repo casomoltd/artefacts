@@ -1,7 +1,3 @@
-# Reference Values — 2026/27
-
-See [test-cases.md](test-cases.md) for scenario definitions.
-
 | | A | B | C | D | E |
 |---|---|---|---|---|---|
 | Gross | £32,073 | £49,387 | £57,528 | £19,244 | £49,387 |
@@ -12,9 +8,3 @@ See [test-cases.md](test-cases.md) for scenario definitions.
 | NI | £1,560 | £2,945 | £3,161 | £534 | £2,945 |
 | Student loan | — | — | — | — | £1,988 |
 | Take-home | £24,483 | £35,207 | £40,231 | £16,374 | £33,219 |
-
-## Sources
-
-- AfC pay rates: [NHS Health Careers](https://www.healthcareers.nhs.uk/working-health/working-nhs/nhs-pay-and-benefits/agenda-change-pay-rates)
-- NHS pension tiers: [NHSBSA](https://www.nhsbsa.nhs.uk/member-hub/contribution-rates)
-- Tax and NI rates: [GOV.UK](https://www.gov.uk/income-tax-rates)
