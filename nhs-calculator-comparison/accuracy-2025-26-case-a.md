@@ -8,11 +8,6 @@ See [test-cases.md](test-cases.md) for all five scenarios.
 | Hours | 1.0 FTE |
 | Student loan | — |
 | Pension method | NET pay |
-| Gross | £31,049 |
-| Pension tier | 8.3% (£2,577) |
-| Tax | £3,180 |
-| NI | £1,478 |
-| Reference take-home | £23,814 |
 
 | Calculator | Salary | Take-home | Tax | NI | Pension | Rate | Notes |
 |---|---|---|---|---|---|---|---|
