@@ -35,7 +35,6 @@ Numbered footnotes below each table describe specific issues.
 | [features-nhs-inputs.md](features-nhs-inputs.md) | NHS-specific input support |
 | [features-pension.md](features-pension.md) | Pension handling comparison |
 | [features-student-loans.md](features-student-loans.md) | Student loan support |
-| [features-additional.md](features-additional.md) | Additional features |
 | [features-ux.md](features-ux.md) | Transparency and UX |
 | [tracking-summary.md](tracking-summary.md) | Third-party tracking scripts |
 

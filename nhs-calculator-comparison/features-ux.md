@@ -1,4 +1,4 @@
-| | NHS THP | Nursing Notes | NHS Salary | NHS Pay Band | My Pay Calc | Nurses.co.uk | Take Home |
+| | [NHS THP](https://nhstakehomepaycalculator.co.uk) | [Nursing Notes](https://nursingnotes.co.uk/nhs-pay-calculator/) | [NHS Salary](https://nhssalarycalculator.com) | [NHS Pay Band](https://nhspayband.co.uk) | [My Pay Calc](https://mypaycalculator.co.uk/nhs) | [Nurses.co.uk](https://www.nurses.co.uk/nhs-pay-calculator) | [Take Home](https://casomo.co.uk/finance/take-home-pay-calculator) |
 |---|---|---|---|---|---|---|---|
 | Component breakdown | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Effective rate | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ |
