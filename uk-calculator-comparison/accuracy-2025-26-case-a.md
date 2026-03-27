@@ -8,7 +8,6 @@ Case A — Baseline PAYE: £45,000 gross, 5% NET pay pension, Plan 2 student loa
 | UK Tax Calc | — [1] | — | — | — | — |
 | UK Salary Calc | £32,634 | £6,034 | £2,594 | £1,488 | £2,250 |
 | ANNA | £32,494 [2] | £6,486 | £2,594 | £1,487 | £1,938 |
-| Take Home | £32,632 | £6,036 | £2,594 | £1,488 | £2,250 |
 
 [1] Only salary sacrifice pension supported.
 [2] Pension did not match 5% target entered.

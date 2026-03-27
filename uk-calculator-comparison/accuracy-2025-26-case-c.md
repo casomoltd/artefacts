@@ -8,7 +8,6 @@ Case C — Salary Sacrifice Stress: £135,000 gross, £20,000 salary sacrifice p
 | UK Tax Calc | £66,470 | £36,432 | £4,310 | £7,788 | £20,000 |
 | UK Salary Calc | — [1] | — | — | — | — |
 | ANNA | — [1] | — | — | — | — |
-| Take Home | £64,670 | £36,432 | £4,311 | £9,588 | £20,000 |
 
 [1] Salary sacrifice not supported.
 [2] Only pension % available — entered 14.81%.

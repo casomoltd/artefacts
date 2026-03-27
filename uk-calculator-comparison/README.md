@@ -2,7 +2,7 @@
 
 Data behind the [UK Calculator Comparison](https://casomo.co.uk/articles/uk-calculator-comparison) article.
 
-Seven UK take-home pay calculators tested across four scenarios covering pension handling, salary sacrifice, student loans, and tax code support.
+Six UK take-home pay calculators tested across four scenarios covering pension handling, salary sacrifice, student loans, and tax code support.
 
 ## Status Labels
 
