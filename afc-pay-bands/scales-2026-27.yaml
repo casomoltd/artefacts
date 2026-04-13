@@ -1,13 +1,28 @@
 source: NHS Health Careers
 uplift: "3.3%"
+hcas:
+  innerLondon: { rate: 20, min: 5794, max: 8746 }
+  outerLondon: { rate: 15, min: 4870, max: 6137 }
+  fringe: { rate: 5, min: 1346, max: 2270 }
 bands:
   - band: "2"
     label: Band 2
+    slug: nhs-band-2-pay
+    roles: Healthcare assistants, housekeeping, security
+    roleContext: >-
+      Entry-level support roles including domestic support
+      workers, housekeeping assistants, drivers, security
+      officers and healthcare assistants.
     points:
       - label: Entry
         salary: 25272
   - band: "3"
     label: Band 3
+    slug: nhs-band-3-pay
+    roles: Emergency care assistants, therapy support workers
+    roleContext: >-
+      Experienced support roles such as emergency care
+      assistants and occupational therapy support workers.
     points:
       - label: Year 1
         salary: 25760
@@ -15,6 +30,12 @@ bands:
         salary: 27476
   - band: "4"
     label: Band 4
+    slug: nhs-band-4-pay
+    roles: Assistant practitioners, pharmacy technicians
+    roleContext: >-
+      Roles requiring specialist training including assistant
+      practitioners, pharmacy technicians, dental nurses and
+      trainee psychological wellbeing practitioners.
     points:
       - label: Year 1
         salary: 28392
@@ -22,6 +43,13 @@ bands:
         salary: 31157
   - band: "5"
     label: Band 5
+    slug: nhs-band-5-pay
+    roles: Newly qualified nurses, midwives, therapists
+    roleContext: >-
+      The entry point for newly qualified clinical
+      professionals including nurses, operating department
+      practitioners, podiatrists and therapeutic
+      radiographers.
     points:
       - label: Year 1
         salary: 32073
@@ -31,6 +59,12 @@ bands:
         salary: 39043
   - band: "6"
     label: Band 6
+    slug: nhs-band-6-pay
+    roles: Senior nurses, specialist practitioners
+    roleContext: >-
+      Experienced clinical and specialist roles such as
+      school nurses, paramedics, estates officers and health
+      records managers.
     points:
       - label: Year 1
         salary: 39959
@@ -40,6 +74,12 @@ bands:
         salary: 48117
   - band: "7"
     label: Band 7
+    slug: nhs-band-7-pay
+    roles: Team leaders, advanced practitioners
+    roleContext: >-
+      Advanced and management roles including communications
+      managers, estates managers and advanced speech and
+      language therapists.
     points:
       - label: Year 1
         salary: 49387
@@ -49,6 +89,12 @@ bands:
         salary: 56515
   - band: "8a"
     label: Band 8a
+    slug: nhs-band-8a-pay
+    roles: Modern matrons, nurse consultants
+    roleContext: >-
+      Senior specialist and management roles such as
+      consultant prosthetists, dental laboratory managers,
+      modern matrons and nurse consultants.
     points:
       - label: Year 1
         salary: 57528
@@ -58,6 +104,12 @@ bands:
         salary: 64750
   - band: "8b"
     label: Band 8b
+    slug: nhs-band-8b-pay
+    roles: Heads of service, strategic managers
+    roleContext: >-
+      Strategic management and senior clinical leadership
+      including heads of education, clinical physiology
+      service managers and head orthoptists.
     points:
       - label: Year 1
         salary: 66582
@@ -67,6 +119,12 @@ bands:
         salary: 77368
   - band: "8c"
     label: Band 8c
+    slug: nhs-band-8c-pay
+    roles: Heads of HR, consultant clinical scientists
+    roleContext: >-
+      Senior leadership roles such as heads of human
+      resources, consultant clinical scientists and
+      consultant paramedics.
     points:
       - label: Year 1
         salary: 79504
@@ -76,6 +134,12 @@ bands:
         salary: 91609
   - band: "8d"
     label: Band 8d
+    slug: nhs-band-8d-pay
+    roles: Chief nurses, chief finance managers
+    roleContext: >-
+      Executive-level clinical and corporate roles including
+      consultant psychologists, chief nurses and chief
+      finance managers.
     points:
       - label: Year 1
         salary: 94356
@@ -85,6 +149,12 @@ bands:
         salary: 108814
   - band: "9"
     label: Band 9
+    slug: nhs-band-9-pay
+    roles: Directors, chief officers
+    roleContext: >-
+      The most senior AfC roles including podiatric surgery
+      consultants, chief finance managers and directors of
+      estates and facilities.
     points:
       - label: Year 1
         salary: 112782
