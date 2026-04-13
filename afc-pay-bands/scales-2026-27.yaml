@@ -1,0 +1,94 @@
+source: NHS Health Careers
+uplift: "3.3%"
+bands:
+  - band: "2"
+    label: Band 2
+    points:
+      - label: Entry
+        salary: 25272
+  - band: "3"
+    label: Band 3
+    points:
+      - label: Year 1
+        salary: 25760
+      - label: Year 2+
+        salary: 27476
+  - band: "4"
+    label: Band 4
+    points:
+      - label: Year 1
+        salary: 28392
+      - label: Year 3+
+        salary: 31157
+  - band: "5"
+    label: Band 5
+    points:
+      - label: Year 1
+        salary: 32073
+      - label: Year 2
+        salary: 34592
+      - label: Year 4+
+        salary: 39043
+  - band: "6"
+    label: Band 6
+    points:
+      - label: Year 1
+        salary: 39959
+      - label: Year 2
+        salary: 42170
+      - label: Year 5+
+        salary: 48117
+  - band: "7"
+    label: Band 7
+    points:
+      - label: Year 1
+        salary: 49387
+      - label: Year 2
+        salary: 51932
+      - label: Year 5+
+        salary: 56515
+  - band: "8a"
+    label: Band 8a
+    points:
+      - label: Year 1
+        salary: 57528
+      - label: Year 2
+        salary: 60417
+      - label: Year 5+
+        salary: 64750
+  - band: "8b"
+    label: Band 8b
+    points:
+      - label: Year 1
+        salary: 66582
+      - label: Year 2
+        salary: 70896
+      - label: Year 5+
+        salary: 77368
+  - band: "8c"
+    label: Band 8c
+    points:
+      - label: Year 1
+        salary: 79504
+      - label: Year 2
+        salary: 84346
+      - label: Year 5+
+        salary: 91609
+  - band: "8d"
+    label: Band 8d
+    points:
+      - label: Year 1
+        salary: 94356
+      - label: Year 2
+        salary: 100140
+      - label: Year 5+
+        salary: 108814
+  - band: "9"
+    label: Band 9
+    points:
+      - label: Year 1
+        salary: 112782
+      - label: Year 2
+        salary: 119583
+      - label: Year 5+
+        salary: 129783

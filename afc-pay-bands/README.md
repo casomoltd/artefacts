@@ -1,13 +1,22 @@
-# AfC Pay Band Breakdowns
+# AfC Pay Scales
 
-Take-home pay breakdowns for each NHS Agenda for Change
-pay band in 2025/26. Each file covers one band and shows
-gross salary, monthly gross, hourly rate, pension
-contribution, income tax, National Insurance, and
-take-home pay for every pay point in the band.
+Machine-readable NHS Agenda for Change pay scales, one YAML
+file per tax year.
 
-Assumptions: England and Wales tax rates, standard tax
-code 1257L, NHS Pension opted in, no student loans.
+## Format
+
+Each `scales-YYYY-YY.yaml` contains:
+
+- `source` — data attribution
+- `uplift` — percentage increase from the previous year
+- `bands[]` — array of pay bands (Band 2 through Band 9)
+  - `band` — identifier ("2", "5", "8a", etc.)
+  - `label` — display name
+  - `points[]` — pay points within the band
+    - `label` — progression label (e.g. "Year 1")
+    - `salary` — annual gross salary in £
+
+Band 1 closed to new entrants in December 2018.
 
 ## Sources
 
