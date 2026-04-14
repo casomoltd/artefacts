@@ -6,8 +6,9 @@ Open research data from [Casomo](https://casomo.co.uk). Reference values, featur
 
 | Directory | Description |
 |---|---|
-| [afc-pay-bands](afc-pay-bands/README.md) | Take-home pay breakdowns for each NHS AfC band in 2025/26 |
 | [nhs-calculator-comparison](nhs-calculator-comparison/README.md) | Seven NHS take-home pay calculators tested against five real scenarios |
+| [uk-calculator-comparison](uk-calculator-comparison/README.md) | UK take-home pay calculator comparison |
+| [paye-calc](paye-calc/README.md) | paye-calc test fixtures |
 
 ## Licence
 
