@@ -23,6 +23,10 @@ Numbered footnotes below each table describe specific issues.
 | File | Description |
 |---|---|
 | [test-cases.md](test-cases.md) | The four test scenarios |
+| [reference-values-2025-26.md](reference-values-2025-26.md) | Correct values — 2025/26 |
+| [reference-values-2026-27.md](reference-values-2026-27.md) | Correct values — 2026/27 |
+| [reference-calculations-2025-26.md](reference-calculations-2025-26.md) | Step-by-step workings — 2025/26 |
+| [reference-calculations-2026-27.md](reference-calculations-2026-27.md) | Step-by-step workings — 2026/27 |
 
 ## Feature Grids
 
