@@ -1,9 +1,9 @@
-# AfC Pay Scales
+# AfC Pay Data
 
-Machine-readable NHS Agenda for Change pay scales, one YAML
-file per tax year.
+Machine-readable NHS Agenda for Change pay scales and pension
+contribution tiers, one file per tax year.
 
-## Format
+## Pay Scales
 
 Each `scales-YYYY-YY.yaml` contains:
 
@@ -25,6 +25,24 @@ Each `scales-YYYY-YY.yaml` contains:
     - `salary` — annual gross salary in £
 
 Band 1 closed to new entrants in December 2018.
+
+## Pension Tiers
+
+Each `pension-tiers-YYYY-YY.csv` contains NHS Pension Scheme
+contribution tiers for England and Wales. Scotland has a
+separate pension scheme and is not covered.
+
+Columns:
+
+- `tier` — 1-based tier number
+- `min` — lower salary boundary in £
+- `max` — upper salary boundary in £ (empty for the top tier,
+  meaning no upper limit)
+- `rate` — contribution rate as a decimal (e.g. 0.052 = 5.2%)
+
+The rate applies to the entire salary (not just the portion
+within the band). 2023-24 used 11 pre-reform tiers; 2024-25
+onward uses 6 post-reform tiers.
 
 ## Sources
 
