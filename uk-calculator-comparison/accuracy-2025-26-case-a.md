@@ -2,6 +2,7 @@ Case A — Baseline PAYE: £45,000 gross, 5% NET pay pension, Plan 2 student loa
 
 | Calculator | Take Home | Tax | NI | Student Loan | Pension |
 |---|---|---|---|---|---|
+| [Reference](reference-values-2025-26.md) | £32,632 | £6,036 | £2,594 | £1,488 | £2,250 |
 | MSE | £33,207 | £5,462 | £2,594 | £1,487 | £2,250 |
 | HMRC | — [1] | — | — | — | — |
 | Salary Calc | £32,632 | £6,036 | £2,594 | £1,476 | £2,250 |

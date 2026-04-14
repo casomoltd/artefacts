@@ -2,6 +2,7 @@ Case C — Salary Sacrifice Stress: £135,000 gross, £20,000 salary sacrifice p
 
 | Calculator | Take Home | Tax | NI | Student Loan | Pension |
 |---|---|---|---|---|---|
+| [Reference](reference-values-2025-26.md) | £66,470 | £36,432 | £4,311 | £7,788 | £20,000 |
 | MSE | — [1] | — | — | — | — |
 | HMRC | £64,277 [2] | £36,432 | £4,711 | £9,587 | £19,993 |
 | Salary Calc | £66,470 | £36,432 | £4,311 | £7,704 | £20,000 |

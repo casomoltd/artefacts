@@ -25,8 +25,6 @@ Numbered footnotes below each table describe specific issues.
 | [test-cases.md](test-cases.md) | The four test scenarios |
 | [reference-values-2025-26.md](reference-values-2025-26.md) | Correct values — 2025/26 |
 | [reference-values-2026-27.md](reference-values-2026-27.md) | Correct values — 2026/27 |
-| [reference-calculations-2025-26.md](reference-calculations-2025-26.md) | Step-by-step workings — 2025/26 |
-| [reference-calculations-2026-27.md](reference-calculations-2026-27.md) | Step-by-step workings — 2026/27 |
 
 ## Feature Grids
 
@@ -52,3 +50,4 @@ Numbered footnotes below each table describe specific issues.
 - HMRC income tax rates: [GOV.UK](https://www.gov.uk/income-tax-rates)
 - NI thresholds: [GOV.UK](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)
 - Student loan repayment thresholds: [GOV.UK](https://www.gov.uk/repaying-your-student-loan)
+- CGT rates and allowances: [GOV.UK](https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances)

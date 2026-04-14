@@ -2,6 +2,7 @@ Case B — Personal Allowance Taper: £110,000 gross, 10% NET pay pension, no st
 
 | Calculator | Take Home | Tax | NI | Student Loan | Pension |
 |---|---|---|---|---|---|
+| [Reference](reference-values-2025-26.md) | £67,757 | £27,032 | £4,211 | — | £11,000 |
 | MSE | £67,757 | £27,032 | £4,211 | — | £11,000 |
 | HMRC | — [1] | — | — | — | — |
 | Salary Calc | £67,757 | £27,032 | £4,211 | — | £11,000 |
